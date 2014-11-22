@@ -1,0 +1,28 @@
+# Number of predators
+2
+# Predator-prey impact (1=Survival;2=Reproduction;3=Reproduction (pre-density denpendence))
+1
+# Maxage age
+15 50
+# Age at maturity
+4  10
+# FMax
+0.08 0.04
+# Survival
+0.5 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+0.8 
+0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95
+0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95
+0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95
+0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95
+0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95 0.95
+# Density-depence component
+2.39
+# For each predator (its relative preference)
+1 0   0    0    0
+1 1   1    1    1
+# Pedator impact function
+0.0 0.2 0.8  #0.7
+0.2 0.2 0.8  #   0.2 0.8
+# Test
+123456
